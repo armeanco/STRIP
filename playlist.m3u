@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:-1 group-title="Live TV", Viasat
+https://s.viks.tv/110/index.m3u8?k=1790369578p42i791i502i19S05bb0f3f6848f33667c87c72075081fb|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", ICTV
+https://s.viks.tv/103/index.m3u8?k=1790369588p42i791i502i19Sb0990b8eb350287a426d9f960a72b6cc|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", 2+2
+https://s.viks.tv/238/index.m3u8?k=1790369596p42i791i502i19S6d8ce8e4586573086fc1fd2b6afc2f4f|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", 1 Channel
+https://s.viks.tv/540/index.m3u8?k=1790369605p42i791i502i19S65aaa71a3dae10fb200360e241a0015d|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", Pobeda
+https://s.viks.tv/218/index.m3u8?k=1790369613p42i791i502i19Sf4737aac085b7dc94fe6130894393984|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", MTV80
+https://s.viks.tv/174/index.m3u8?k=1790369622p42i791i502i19Sd3d50481eb849d002431f4734901588d|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", MTV00
+https://s.viks.tv/175/index.m3u8?k=1790369630p42i791i502i19S86c4ac83ab627ee7125df265da1efff7|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", Eralash
+https://s.viks.tv/512/index.m3u8?k=1790369639p42i791i502i19S90033f51438c88e0321b8acb57cdfb9d|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", NATGEO
+https://s.viks.tv/601/index.m3u8?k=1790369647p42i791i502i19S998719e3c0ccbb6e8396fed668e4985b|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", EUROSPORT2
+https://s.viks.tv/595/index.m3u8?k=1790369656p42i791i502i19Sce219226c7769277beb715604ad6e1c9|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", EUROSPORT
+https://s.viks.tv/594/index.m3u8?k=1790369665p42i791i502i19Scc33bd4b8414ac66b4f137b56bc13776|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", MOSFILM
+https://s.viks.tv/235/index.m3u8?k=1790369673p42i791i502i19Sda142752e365dbd933ff26929d3d2b53|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", MIR
+https://s.viks.tv/587/index.m3u8?k=1790369682p42i791i502i19Sedb113519376f0a9c6ba4ebe1695ce43|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", R24
+https://s.viks.tv/563/index.m3u8?k=1790369690p42i791i502i19S6b56f86554d7d3bff6881a00643bb74a|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", RTRPLANETA
+https://s.viks.tv/580/index.m3u8?k=1790369699p42i791i502i19Sbed65238799a930c1596f4dc8ca715c9|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", RUSSIA1
+https://s.viks.tv/544/index.m3u8?k=1790369707p42i791i502i19Se024a5bb57874846cb4083f71de4ddda|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", DISCOVERY
+https://s.viks.tv/520/index.m3u8?k=1790369716p42i791i502i19Seb8986292741df2986eed5e2cade930f|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", NATGEOWILD
+https://s.viks.tv/564/index.m3u8?k=1790369724p42i791i502i19S7a00162de6ee2838c20e5c07e89cf59c|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", RUSSIARTR
+https://s.viks.tv/580/index.m3u8?k=1790369733p42i791i502i19S1257a087deaca85aae3d0cdcada07052|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Live TV", Paramount
+https://s.viks.tv/182/index.m3u8?k=1790369741p42i791i502i19S6a0ecadfc7e324e72c90a78c847c04ff|Referer=https://viks.tv/&User-Agent=Mozilla/5.0
