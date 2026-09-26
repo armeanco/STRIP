@@ -1,0 +1,11 @@
+services:
+  - type: cron
+    name: iptv-playlist-scraper
+    env: python
+    buildCommand: "pip install requests playwright && playwright install --with-deps chromium"
+    startCommand: "python update_playlist.py"
+    schedule: "17 */4 * * *"  # Runs every 3 hours
+    plan: free
+    envVars:
+      - key: GITHUB_TOKEN
+        sync: false
